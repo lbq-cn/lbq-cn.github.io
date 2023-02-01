@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as s}from"./framework-d140ffe8.js";const c={},o=e("h1",{id:"第一篇",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#第一篇","aria-hidden":"true"},"#"),s(" 第一篇")],-1),n=[o];function _(d,i){return a(),r("div",null,n)}const h=t(c,[["render",_],["__file","first.html.vue"]]);export{h as default};

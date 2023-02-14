@@ -1,0 +1,8 @@
+import{_ as s,p as n,q as e,a1 as a}from"./framework-d140ffe8.js";const t={},c=a(`<h1 id="vuepress-主题基本配置" tabindex="-1"><a class="header-anchor" href="#vuepress-主题基本配置" aria-hidden="true">#</a> vuepress 主题基本配置</h1><blockquote><p>静态资源的根目录位于 <code>.vuepress/public</code></p><p>页面文档的根目录位于<code>docs</code></p></blockquote><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">import</span> <span class="token punctuation">{</span> defaultTheme <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">&#39;@vuepress/theme-default&#39;</span>
+
+<span class="token keyword">export</span> <span class="token keyword">default</span> <span class="token punctuation">{</span>
+  <span class="token literal-property property">theme</span><span class="token operator">:</span> <span class="token function">defaultTheme</span><span class="token punctuation">(</span><span class="token punctuation">{</span>
+    <span class="token comment">// 在这里进行配置</span>
+  <span class="token punctuation">}</span><span class="token punctuation">)</span><span class="token punctuation">,</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),p=[c];function o(i,l){return n(),e("div",null,p)}const d=s(t,[["render",o],["__file","config-them.html.vue"]]);export{d as default};

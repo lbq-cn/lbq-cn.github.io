@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fbee3ca8","path":"/them/config-them.html","title":"vuepress 主题基本配置","lang":"zh-CN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"them/config-them.md"}');export{e as data};
